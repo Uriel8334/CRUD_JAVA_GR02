@@ -1,0 +1,10 @@
+edu/ec/monster/crud_java_gr02/JakartaRestConfiguration.class
+edu/ec/monster/modelo/DepartamentoDAO.class
+edu/ec/monster/modelo/Usuario.class
+edu/ec/monster/modelo/UsuarioId.class
+edu/ec/monster/modelo/Departamento.class
+edu/ec/monster/controlador/DepartamentoServlet.class
+edu/ec/monster/controlador/LoginServlet.class
+edu/ec/monster/crud_java_gr02/resources/JakartaEE10Resource.class
+edu/ec/monster/util/HibernateUtil.class
+edu/ec/monster/modelo/UsuarioDAO.class
